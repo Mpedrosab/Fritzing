@@ -1,0 +1,2 @@
+
+In Adobe Illustrator, set grid to 7.2 pts so pins match fritzing grid.
