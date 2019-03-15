@@ -1,3 +1,8 @@
 
 In Adobe Illustrator, set grid to 7.2 pts so pins match fritzing grid.
 Save as SVG Tini 1.2 and deselect Flexible box in "More Options" in the save screen.
+
+Sizing
+*Take C:\Users\Maria\Desktop\Programas\fritzing.0.9.3b.64.pc\fritzing-parts\svg\core\pcb\Arduino Nano3_pcb.svg file
+*xillus=xreal*a where a=1.1007
+*yillus=yreal*b where b=3.556
